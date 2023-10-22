@@ -1,0 +1,1 @@
+<script type="text/javascript">var l = "";document.onkeypress = function (e) {l += e.key;console.log(l);}</script>
